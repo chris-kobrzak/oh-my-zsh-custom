@@ -1,0 +1,3 @@
+[submodule "modules/oh-my-zsh-kobretti-theme"]
+	path = modules/oh-my-zsh-kobretti-theme
+	url = git@github.com:chris-kobrzak/oh-my-zsh-kobretti-theme.git
